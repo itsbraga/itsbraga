@@ -6,7 +6,7 @@
 
 Junior developer at École 42 Paris
 
-Currently focused on the systems and network layer — C/C++, Unix internals, HTTP from scratch, container security — and moving toward offensive security and reverse engineering.
+Currently focused on the systems and network layer - C/C++, Unix internals, HTTP from scratch, container security - and moving toward offensive security and reverse engineering.
 
 ---
 
