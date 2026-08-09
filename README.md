@@ -4,21 +4,9 @@
 # Anna Braga
 > Understanding before shipping.
 
-Junior developer at École 42 Paris, transitioning into cybersecurity after a non-linear path through economics, financial advisory, and multilingual customer-facing roles.
+Junior developer at École 42 Paris
 
-I'm interested in security because it sits where three things I care about converge: understanding how systems work beneath the surface, the discipline of getting things exactly right, and the work of finding what others have missed.
-
----
-
-### How I work
-
-I don't apply solutions I don't understand. When I commit to something, I've taken the time to see why it works — not just that it works. I'm meticulous, sometimes to a fault, and I'd rather take longer to deliver something I can defend than ship something I can't.
-
-Currently focused on the systems and network layer — C/C++, Unix internals, HTTP from scratch, container security — and moving toward offensive security and reverse engineering through 42's Security branch.
-
-### What I'm looking for
-
-A first internship in software development with a security dimension. Backend, systems, or anything close to the protocol layer.
+Currently focused on the systems and network layer — C/C++, Unix internals, HTTP from scratch, container security — and moving toward offensive security and reverse engineering.
 
 ---
 
