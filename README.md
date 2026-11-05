@@ -15,4 +15,4 @@ Working at the low level in C and C++: Unix/POSIX internals, sockets, HTTP and I
 - 📧 it.braga@pm.me
 - 💼 [linkedin.com/in/abraga](https://www.linkedin.com/in/abraga)
 
-Based in the Paris area. Open to opportunities in France and abroad.
+Open to opportunities in France and abroad.
