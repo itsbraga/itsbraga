@@ -1,12 +1,12 @@
 ![Status: Seeking internship](https://img.shields.io/badge/Status-Seeking%20internship-1e3a5f?style=flat-square)
-![Focus: Systems & Security](https://img.shields.io/badge/Focus-Backend%20%26%20Security-2d2d2d?style=flat-square)
+![Focus: Systems & Security](https://img.shields.io/badge/Focus-Systems%20%26%20Security-2d2d2d?style=flat-square)
 
 # Anna Braga
 > Understanding before shipping.
 
-Student developer at École 42 Paris
-
-Currently focused on the systems and network layer - C/C++, Unix internals, HTTP from scratch, container security - and moving toward offensive security and reverse engineering.
+Student developer at École 42 Paris — systems & network track.
+ 
+Working at the low level in C and C++: Unix/POSIX internals, sockets, HTTP and ICMP from scratch, process and signal handling, containerized infrastructure. Currently moving toward offensive security and reverse engineering.
 
 ---
 
@@ -15,4 +15,4 @@ Currently focused on the systems and network layer - C/C++, Unix internals, HTTP
 - 📧 it.braga@pm.me
 - 💼 [linkedin.com/in/abraga](https://www.linkedin.com/in/abraga)
 
-Open to opportunities in France and abroad.
+Based in the Paris area. Open to opportunities in France and abroad.
